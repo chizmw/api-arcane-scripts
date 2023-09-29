@@ -4,5 +4,9 @@
   "description": "This is API Arcane Scripts",
   "repository": "git@github.com:chizmw/api-arcane-scripts.git",
   "author": "Chisel <chisel@malik-wright.uk>",
-  "license": "CC-BY-NC-ND-4.0"
+  "license": "CC-BY-NC-ND-4.0",
+  "dependencies": {
+    "@changesets/cli": "^2.26.2",
+    "@svitejs/changesets-changelog-github-compact": "^1.1.0"
+  }
 }
