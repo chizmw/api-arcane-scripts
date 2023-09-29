@@ -1,0 +1,8 @@
+{
+  "name": "api-arcane-scripts",
+  "version": "0.0.0",
+  "description": "This is API Arcane Scripts",
+  "repository": "git@github.com:chizmw/api-arcane-scripts.git",
+  "author": "Chisel <chisel@malik-wright.uk>",
+  "license": "CC-BY-NC-ND-4.0"
+}
