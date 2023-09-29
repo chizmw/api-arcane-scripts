@@ -2,7 +2,7 @@ terraform {
   backend "s3" {
     #bucket               = "436158765452-terraform-state"
     #key                  = "net-arcanescripts-infra"
-    #region               = "eu-west-2"
+    region = "eu-west-2"
     #workspace_key_prefix = "tf-state"
   }
 
